@@ -7,6 +7,6 @@ Growth Mind to me is
 Three remindes to stay in a growth mind set:
 
 
-Link to my portfolio:
+Link to my [Github portfolio] (https://github.com/Ricardo2450)
 
 
