@@ -42,4 +42,4 @@ Files can have any extension they like or none at all.
 \- Linux is case sensitive
 Beware of silly typos.
 
-[Return to home page](/Users/RJ/projects/courses/102/reading-notes/README.md)
+[Return to home page](../README.md)

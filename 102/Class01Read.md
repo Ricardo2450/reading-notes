@@ -14,4 +14,4 @@ GitHub is a place where software devlopers go to create personal projects like a
 
 ***[GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY)***
 
-[Return to home page](/Users/RJ/projects/courses/102/reading-notes/README.md)
+[Return to home page](../README.md)
