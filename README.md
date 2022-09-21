@@ -4,9 +4,11 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 
 ## **Table of Contents**
 
+* [What is Growth](102/WhatisGrowthmindset.md)
 * [Class 01 read](102/Class01Read.md)
 * [Class 02 read](102/Class02Read.md)
-* [Class 03 read]()
+* [Class 03 read](102/Class03Read.md)
+* [Class 04 read](102/Class04Read.md)
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
 
