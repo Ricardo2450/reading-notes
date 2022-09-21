@@ -42,9 +42,10 @@ Files can have any extension they like or none at all.
 \- Linux is case sensitive
 Beware of silly typos.
 
->### Links to more info about:
-+ [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-+ [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-+ [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+>## Links to more info about
+
+* [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+* [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+* [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 [Return to home page](../README.md)

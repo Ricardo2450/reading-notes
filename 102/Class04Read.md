@@ -11,7 +11,7 @@ Sketch > Code
 Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
 Sketch > Wireframe > Visual > Code
 
-When building a wireframe, be mindful of these points: 
+When building a wireframe, be mindful of these points:
 -clarity
 -confidence
 -simplicity
@@ -57,7 +57,7 @@ When building a wireframe, be mindful of these points:
 \- href might appear like a rather obscure choice for an attribute name at first.It stands for *hypertext reference*.
 
  > ## **Semantics**
- 
+
  Semantics refers to the meaning of a piece of code
 
  Example, In HTML the \<h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of a header.
