@@ -11,6 +11,9 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 04 read](102/Class04Read.md)
 * [Class 05 read](102/Class05Read.md)
 * [Class 06 read](102/Class06Read.md)
+* [Class 07 read](102/Class07Read.md)
+* [Class 08 read](102/Class08Read.md)
+
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
 
