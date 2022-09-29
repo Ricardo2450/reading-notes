@@ -1,20 +1,35 @@
-# _My reading notes for 102_
+# _My reading notes for Code fellows 201_
 
-Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran and worked as a firefighter before joining code fellows. The reason why I'm taking this class is because a buddy recommend I get into coding after telling me how wonderful his experience working in the field is. So I did some reasearch and found Code Fellows was best for what I was looking for in a bootcamp.
+Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran and worked as a firefighter before joining code fellows. The reason why I'm taking this class is because a buddy recommend I get into coding after telling me how wonderful his experience working in the field is. This is my reading notes for all my class.
 
 ## **Table of Contents**
 
-* [What is Growth](102/WhatisGrowthmindset.md)
-* [Class 01 read](102/Class01Read.md)
-* [Class 02 read](102/Class02Read.md)
-* [Class 03 read](102/Class03Read.md)
-* [Class 04 read](102/Class04Read.md)
-* [Class 05 read](102/Class05Read.md)
-* [Class 06 read](102/Class06Read.md)
-* [Class 07 read](102/Class07Read.md)
-* [Class 08 read](102/Class08Read.md)
+> ***Code 102- Intro to Software development***
+* [What is Growth?](102/WhatisGrowthmindset.md)
+* [Class 01- Learning Markdown](102/Class01Read.md)
+* [Class 02- The Coder's Computer](102/Class02Read.md)
+* [Class 03- Revisions and the Cloud](102/Class03Read.md)
+* [Class 04- Structure web pages with HTML](102/Class04Read.md)
+* [Class 05- Design web pages with CSS](102/Class05Read.md)
+* [Class 06- Dynamic web pages with JavaScript](102/Class06Read.md)
+* [Class 07- Programming with JavaScript](102/Class07Read.md)
+* [Class 08- Operators and Loops](102/Class08Read.md)
 
+> ***Code 201- Foundations of software development***
 
+* [Class 01-]()
+* [Class 02-]()
+* [Class 03-]()
+* [Class 04-]()
+* [Class 05-]()
+* [Class 06-]()
+* [Class 07-]()
+* [Class 08-]()
+* [Class 09-]()
+* [Class 10-]()
+* [Class 11-]()
+* [Class 12-]()
+* [Class 13-]()
+* [Class 14-]()
+* [Class 15-]()
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
-
-
