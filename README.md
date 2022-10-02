@@ -32,4 +32,5 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 13-]()
 * [Class 14-]()
 * [Class 15-]()
+
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
