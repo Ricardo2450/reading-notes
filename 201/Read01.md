@@ -141,7 +141,9 @@ References:
 
 > ## Things I want to know more about.
 
-* \<meta charset=""> or metadata 
+* \<meta charset=""> or metadata
 * Best practice for line breaks in code.
 * adding favicon.
 * JavaScript
+
+[Return to home page](../README.md)
