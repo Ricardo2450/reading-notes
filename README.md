@@ -18,7 +18,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 > ***Code 201- Foundations of software development***
 
 * [Class 01- Introductory HTML and JavaScript](201/Read01.md)
-* [Class 02-]()
+* [Class 02- Basics of HTML, CSS & JS](201/Read02.md)
 * [Class 03-]()
 * [Class 04-]()
 * [Class 05-]()
