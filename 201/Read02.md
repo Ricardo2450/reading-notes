@@ -161,7 +161,7 @@ References:
 
 * **logical operators**:
    * && — AND; allows you to chain together two or more expressions so that <strong>all</strong> of them have to individually evaluate to true for the whole expression to return true.
-   * || — OR; allows you to chain together two or more expressions so that <strong>one</strong> or more of them have to individually evaluate to true for the whole expression to return true.
+   * \|| — OR; allows you to chain together two or more expressions so that <strong>one</strong> or more of them have to individually evaluate to true for the whole expression to return true.
    * ! - Not operator, can be used to negate an expression.
 * <em>Note</em>: You can combine as many logical statements together as you want, in whatever structure. 
 
@@ -179,7 +179,7 @@ References:
    * < and > 
    * <= and >=
 
-4. What is the difference between the logical operator && and ||?
+4. What is the difference between the logical operator \&& and \||?
    * AND operator **all** expressions have to individually evaluate to true. While the OR operator only **one** or more expressions have to evaluate to true.
 
 References:
