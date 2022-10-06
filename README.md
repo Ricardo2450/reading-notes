@@ -20,7 +20,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 01- Introductory HTML and JavaScript](201/Read01.md)
 * [Class 02- Basics of HTML, CSS & JS](201/Read02.md)
 * [Class 03- HTML Lists, Control Flow with JS, and the CSS Box Model](201/Read03.md)
-* [Class 04-]()
+* [Class 04-HTML Links, JS Functions, and Intro to CSS Layou](201/Read04.md)
 * [Class 05-]()
 * [Class 06-]()
 * [Class 07-]()
