@@ -57,6 +57,16 @@ References:
 References:
 [Functions – Reusable Blocks of Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
+> ## Miscellaneous
+
+* Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+   * Learning from fellow students- Everyone has there own way of figuring out a problem. So seeing and talking to other people on how they tackled there code really helps to have a better understanding of how it works.
+
+   * Work environment readiness- Already being prepared for being in a work ready environment really takes away some fear of how it might be in the real world. Plus, I feel job would really appreciate it more because it one less thing to work on.
+
+References:
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
 > ### Things i want to know more about
 
 * anonymous functions
