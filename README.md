@@ -22,7 +22,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 03- HTML Lists, Control Flow with JS, and the CSS Box Model](201/Read03.md)
 * [Class 04-HTML Links, JS Functions, and Intro to CSS Layou](201/Read04.md)
 * [Class 05- HTML Media, Coloring in CSS, styling HTML Text Elements](201/Read05.md)
-* [Class 06-]()
+* [Class 06- Problem Domain, Objects, and the DOM](201/Read06.md)
 * [Class 07-]()
 * [Class 08-]()
 * [Class 09-]()
