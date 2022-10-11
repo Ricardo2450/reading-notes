@@ -55,4 +55,7 @@
 * using .prototype in my code
 * hasOwnProperty in code.
 
+* More good reads:
+[HTML Table Advanced Features and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+
 [Return home](../README.md)
