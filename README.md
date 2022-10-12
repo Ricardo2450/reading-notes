@@ -24,7 +24,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 05- HTML Media, Coloring in CSS, styling HTML Text Elements](201/Read05.md)
 * [Class 06- Problem Domain, Objects, and the DOM](201/Read06.md)
 * [Class 07- Object-Oriented Programming, HTML Tables](201/Read07.md)
-* [Class 08-]()
+* [Class 08- CSS Layout](201/Read08.md)
 * [Class 09-]()
 * [Class 10-]()
 * [Class 11-]()
