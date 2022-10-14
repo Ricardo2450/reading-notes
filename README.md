@@ -26,7 +26,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 07- Object-Oriented Programming, HTML Tables](201/Read07.md)
 * [Class 08- CSS Layout](201/Read08.md)
 * [Class 09- Forms and JS Events](201/Read09.md)
-* [Class 10-]()
+* [Class 10- Debugging](201/Read10.md)
 * [Class 11-]()
 * [Class 12-]()
 * [Class 13-]()
