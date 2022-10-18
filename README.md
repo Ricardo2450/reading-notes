@@ -28,7 +28,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 09- Forms and JS Events](201/Read09.md)
 * [Class 10- Debugging](201/Read10.md)
 * [Class 11- Audio, Video, Images](201/Read11.md)
-* [Class 12-]()
+* [Class 12- Chart.js, Canvas](201/Read12.md)
 * [Class 13-]()
 * [Class 14-]()
 * [Class 15-]()

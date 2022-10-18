@@ -57,7 +57,7 @@ References:
 * [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML),
 [Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
-> Things I want to konw more about
+> Things I want to know more about
 * Is there a reason not to use grid for?
 
 
