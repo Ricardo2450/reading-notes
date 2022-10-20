@@ -30,7 +30,8 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 11- Audio, Video, Images](201/Read11.md)
 * [Class 12- Chart.js, Canvas](201/Read12.md)
 * [Class 13- Local Storage and How To Use It On Websites](201/Read13.md)
-* [Class 14-]()
+* [Class 14- Psychological Safety](201/Read14Ps.md)
+* [CLass 14- Transitions & Animations](201/Read14.md)
 * [Class 15-]()
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
