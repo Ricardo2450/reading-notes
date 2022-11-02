@@ -20,7 +20,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 01- Introductory HTML and JavaScript](201/Read01.md)
 * [Class 02- Basics of HTML, CSS & JS](201/Read02.md)
 * [Class 03- HTML Lists, Control Flow with JS, and the CSS Box Model](201/Read03.md)
-* [Class 04-HTML Links, JS Functions, and Intro to CSS Layou](201/Read04.md)
+* [Class 04- HTML Links, JS Functions, and Intro to CSS Layou](201/Read04.md)
 * [Class 05- HTML Media, Coloring in CSS, styling HTML Text Elements](201/Read05.md)
 * [Class 06- Problem Domain, Objects, and the DOM](201/Read06.md)
 * [Class 07- Object-Oriented Programming, HTML Tables](201/Read07.md)
@@ -32,6 +32,43 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 13- Local Storage and How To Use It On Websites](201/Read13.md)
 * [Class 14- Psychological Safety](201/Read14Ps.md)
 * [CLass 14- Transitions & Animations](201/Read14.md)
-* [Class 15-]()
+
+> ***Code 301- Intermediate Software Development***
+
+* [Class 01-]()
+* [Class 02- ]()
+* [Class 03- ]()
+* [Class 04- ]()
+* [Class 05- ]()
+* [Class 06- ]()
+* [Class 07- ]()
+* [Class 08- ]()
+* [Class 09- ]()
+* [Class 10- ]()
+* [Class 11- ]()
+* [Class 12- ]()
+* [Class 13- ]()
+* [Class 14- ]()
+* [CLass 15- ]()
+
+
+
+> ***Code 401 - Advanced Software Development***
+
+* [Class 01-]()
+* [Class 02- ]()
+* [Class 03- ]()
+* [Class 04- ]()
+* [Class 05- ]()
+* [Class 06- ]()
+* [Class 07- ]()
+* [Class 08- ]()
+* [Class 09- ]()
+* [Class 10- ]()
+* [Class 11- ]()
+* [Class 12- ]()
+* [Class 13- ]()
+* [Class 14- ]()
+* [CLass 15- ]()
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
