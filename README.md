@@ -35,7 +35,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 
 > ***Code 301- Intermediate Software Development***
 
-* [Class 01-]()
+* [Class 01- Introduction to React and Components](301/Read01.md)
 * [Class 02- ]()
 * [Class 03- ]()
 * [Class 04- ]()
