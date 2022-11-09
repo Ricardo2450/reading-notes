@@ -37,7 +37,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 
 * [Class 01- Introduction to React and Components](301/Read01.md)
 * [Class 02- State and Props](301/Read02.md)
-* [Class 03- ]()
+* [Class 03- Passing Functions as Props](301/Read03.md)
 * [Class 04- ]()
 * [Class 05- ]()
 * [Class 06- ]()
