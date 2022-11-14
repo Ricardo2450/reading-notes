@@ -40,7 +40,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 03- Passing Functions as Props](301/Read03.md)
 * [Class 04- React and Forms](301/Read04.md)
 * [Class 05- Putting it all together](301/Read05.md)
-* [Class 06- ]()
+* [Class 06- NODE.JS](301/Read06.md)
 * [Class 07- ]()
 * [Class 08- ]()
 * [Class 09- ]()
