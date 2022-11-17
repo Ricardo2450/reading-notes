@@ -43,7 +43,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 06- NODE.JS](301/Read06.md)
 * [Class 07- Rest](301/Read07.md)
 * [Class 08- APIs](301/Read08.md)
-* [Class 09- ]()
+* [Class 09- Functional Programming](301/Read09.md)
 * [Class 10- ]()
 * [Class 11- ]()
 * [Class 12- ]()
