@@ -34,7 +34,7 @@ References:
    * module.exports = counter;
 
 4. What do we have to do to make a module available?
-   * store it in a variable thats required to what we want available.
+   * store it in a variable thats required to what we want available.ta
 
 References:
 [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)

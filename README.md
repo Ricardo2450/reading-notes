@@ -44,7 +44,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 07- Rest](301/Read07.md)
 * [Class 08- APIs](301/Read08.md)
 * [Class 09- Functional Programming](301/Read09.md)
-* [Class 10- ]()
+* [Class 10- In memory storage](301/Read10.md)
 * [Class 11- ]()
 * [Class 12- ]()
 * [Class 13- ]()
