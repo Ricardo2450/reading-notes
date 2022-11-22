@@ -46,7 +46,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 09- Functional Programming](301/Read09.md)
 * [Class 10- In memory storage](301/Read10.md)
 * [Class 11- MongoDB and Mongoose](301/Read11.md)
-* [Class 12- ]()
+* [Class 12- CRUD](301/Read12.md)
 * [Class 13- ]()
 * [Class 14- ]()
 * [CLass 15- ]()
