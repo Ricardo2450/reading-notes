@@ -58,7 +58,7 @@ References:
 [Authorization and Authentication flows](https://auth0.com/docs/flows)
 
 > ### Other good reads/watch
-* [Auth0 for single page apps](https://auth0.com/docs/libraries/auth0-react)
 
+* [Auth0 for single page apps](https://auth0.com/docs/libraries/auth0-react)
 
 [Return home](../README.md)
