@@ -56,6 +56,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 > ***Code 401 - Advanced Software Development***
 
 * [The Growth Mindset](401/GrowthMindset.md)
+* [The Command Line](401/CommandLine.md)
 * [Class 01-]()
 * [Class 02- ]()
 * [Class 03- ]()
