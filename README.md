@@ -58,7 +58,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [The Growth Mindset](401/GrowthMindset.md)
 * [The Command Line](401/CommandLine.md)
 * [Introduction to SQL](401/IntroductionToSQL.md)
-* [Class 01-]()
+* [Class 01- Big O and Python Names/Values](401/Read01.md)
 * [Class 02- ]()
 * [Class 03- ]()
 * [Class 04- ]()
