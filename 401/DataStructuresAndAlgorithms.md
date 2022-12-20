@@ -82,6 +82,7 @@ O(log n) - you break people into groups according to what they want and make lar
 * Make sure you have a base case in the function.
 
 > ### Other good reads
+
 * [Why Big O](https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms)
 
 [Return Home](../README.md)
