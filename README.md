@@ -61,7 +61,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Data Structures and Algorithms](401/DataStructuresAndAlgorithms.md)
 * [Engineering Readings](401/EngineeringReadings.md)
 * [Class 01- Big O and Python Names/Values](401/Read01.md)
-* [Class 02- ]()
+* [Class 02- Testing and Modules](401/Read02.md)
 * [Class 03- ]()
 * [Class 04- ]()
 * [Class 05- ]()
