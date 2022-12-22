@@ -63,7 +63,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 01- Big O and Python Names/Values](401/Read01.md)
 * [Class 02- Testing and Modules](401/Read02.md)
 * [Class 03- FileIO & Exceptions](401/Read03.md)
-* [Class 04- ]()
+* [Class 04- Classes and Objects](401/Read04.md)
 * [Class 05- ]()
 * [Class 06- ]()
 * [Class 07- ]()
