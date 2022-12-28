@@ -65,7 +65,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 03- FileIO & Exceptions](401/Read03.md)
 * [Class 04- Classes and Objects](401/Read04.md)
 * [Class 05- ]()
-* [Class 06- ]()
+* [Class 06- Ten Thousand Game 1](401/Read06.md)
 * [Class 07- ]()
 * [Class 08- ]()
 * [Class 09- ]()
