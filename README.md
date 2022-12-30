@@ -67,7 +67,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 05- ]()
 * [Class 06- Ten Thousand Game 1](401/Read06.md)
 * [Class 07- Ten Thousand 2](401/Read07.md)
-* [Class 08- ]()
+* [Class 08- Ten Thousand 3](401/Read08.md)
 * [Class 09- ]()
 * [Class 10- ]()
 * [Class 11- ]()
