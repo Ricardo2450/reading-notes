@@ -71,7 +71,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 09- ]()
 * [Class 10- Stacks and Queues](401/Read10.md)
 * [Class 11- Data Analysis](401/Read11.md)
-* [Class 12- ]()
+* [Class 12- Pandas](401/Read12.md)
 * [Class 13- ]()
 * [Class 14- ]()
 * [CLass 15- ]()
