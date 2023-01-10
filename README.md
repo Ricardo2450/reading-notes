@@ -75,5 +75,12 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 13- Linear Regressions](401/Read13.md)
 * [Class 14- Data Visualization](401/Read14.md)
 * [CLass 15- Trees](401/Read15.md)
+* [Class 16- Serverless Functions](401/Read16.md)
+* [Class 17- ]()
+* [Class 18- ]()
+* [Class 19- ]()
+* [Class 20- ]()
+* [Class 21- ]()
+* [Class 22- ]()
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
