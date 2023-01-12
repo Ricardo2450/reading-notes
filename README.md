@@ -77,7 +77,7 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [CLass 15- Trees](401/Read15.md)
 * [Class 16- Serverless Functions](401/Read16.md)
 * [Class 17- Web Scraping](401/Read17.md)
-* [Class 18- ]()
+* [Class 18- Cryptography](401/Read18.md)
 * [Class 19- ]()
 * [Class 20- ]()
 * [Class 21- ]()
