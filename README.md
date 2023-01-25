@@ -81,6 +81,6 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 19- Automation](401/Read19.md)
 * [Class 26- ]()
 * [Class 27- Django Models](401/Read27.md)
-* [Class 22- ]()
+* [Class 28- Django CRUD and Forms](401/Read28.md)
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
