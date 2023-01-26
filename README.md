@@ -64,11 +64,9 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 02- Testing and Modules](401/Read02.md)
 * [Class 03- FileIO & Exceptions](401/Read03.md)
 * [Class 04- Classes and Objects](401/Read04.md)
-* [Class 05- ]()
 * [Class 06- Ten Thousand Game 1](401/Read06.md)
 * [Class 07- Ten Thousand 2](401/Read07.md)
 * [Class 08- Ten Thousand 3](401/Read08.md)
-* [Class 09- ]()
 * [Class 10- Stacks and Queues](401/Read10.md)
 * [Class 11- Data Analysis](401/Read11.md)
 * [Class 12- Pandas](401/Read12.md)
@@ -82,5 +80,6 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 26- ]()
 * [Class 27- Django Models](401/Read27.md)
 * [Class 28- Django CRUD and Forms](401/Read28.md)
+* [Class 29- Django Custom User](401/Read29.md)
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
