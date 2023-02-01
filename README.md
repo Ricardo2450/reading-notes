@@ -81,5 +81,11 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 27- Django Models](401/Read27.md)
 * [Class 28- Django CRUD and Forms](401/Read28.md)
 * [Class 29- Django Custom User](401/Read29.md)
+* [Class 30- Hash Tables](401/Read30.md)
+* [Class 31- Django REST Framework & Docker](401/Read31.md)
+* [Class 32- DRF Permissions](401/Read32.md)
+* [Class 33- ]()
+* [Class 34- ]()
+* [Class 35- ]()
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
