@@ -86,6 +86,11 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 32- DRF Permissions](401/Read32.md)
 * [Class 33- Authentication & Production Server](401/Read33.md)
 * [Class 34- API Deployment](401/Read34.md)
-* [Class 35- ]()
+* [Class 35- Graphs](401/Read35.md)
+* [Class 36- DSA Review](401/Read36.md)
+* [Class 37- React 1](401/Read37.md)
+* [Class 36- ]()
+* [Class 36- ]()
+* [Class 36- ]()
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
