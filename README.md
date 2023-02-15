@@ -89,8 +89,13 @@ Hello, My Name is Ricardo Soto-Fabela. Some facts about me, Im a navy veteran an
 * [Class 35- Graphs](401/Read35.md)
 * [Class 36- DSA Review](401/Read36.md)
 * [Class 37- React 1](401/Read37.md)
-* [Class 36- ]()
-* [Class 36- ]()
-* [Class 36- ]()
+* [Class 38- React 2](401/Read38.md)
+* [Class 39- React 3](401/Read39.md)
+* [Class 41- React 4](401/Read41.md)
+* [Class 42- Pythonisms](401/Read42.md)
+* [Class 42- Ethics in Tech](401/Read42Ethics.md)
+* [Class 44- ](401/Read38.md)
+* [Class 45- ](401/Read39.md)
+* [Class 46- ](401/Read41.md)
 
 Link to my [Github portfolio](https://github.com/Ricardo2450/).
